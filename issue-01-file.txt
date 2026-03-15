@@ -1,2 +1,2 @@
-const name = 90;
+const name = 99;
 console.log(name);
